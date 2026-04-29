@@ -1,0 +1,9 @@
+{
+  "caught": true,
+  "correction": "Evaluator v2 adds a hard compliance gate and increases compliance weight from 0.15 to 0.30. Any policy violation now forces total score to 0 for that stage.",
+  "fixed_aggressive_compliance_pass_rate": 0.6667,
+  "fixed_aggressive_mean": 0.62,
+  "flawed_aggressive_mean": 0.7087,
+  "flawed_baseline_mean": 0.93,
+  "meta_eval_case": "flawed evaluator over-weighted collections outcome and under-weighted compliance"
+}
